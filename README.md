@@ -20,3 +20,6 @@ The decorated function simulates an API that returns:
 
 ```bash
 python Q4.py
+
+## Output
+success:60 dead_letter:0
