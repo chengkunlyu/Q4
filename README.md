@@ -16,7 +16,7 @@ The decorated function simulates an API that returns:
 - normal success (status 200)
 - every 20th call returns status 429 with a new rate limit (`X-Rate-Limit-RPS: 10`)
 
-### Run the demonstration:
+## Run the demonstration:
 
 ```bash
 python Q4.py
